@@ -1,6 +1,6 @@
 # Pacman Game
 
-This is a classic Pacman game implemented in [programming language]. 
+This is a classic Pacman game implemented in Java. 
 
 ## How to Play
 
